@@ -9,6 +9,7 @@
 !CMS_detector.png
 !BPIXhadrography.png
 !NIdefinition.png
+*.csv
 # end my ignore staff
 
 # Byte-compiled / optimized / DLL files
