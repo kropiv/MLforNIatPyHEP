@@ -4,6 +4,6 @@ numpy==1.16.4
 logging==0.5.1.2
 IPython==7.5.0
 ipywidgets==7.4.2
-tensorflow==1.14.0
+tensorflow==1.15.2
 keras==2.2.4
 json==2.0.9
