@@ -4,4 +4,3 @@ IPython==7.5.0
 ipywidgets==7.4.2
 tensorflow==1.15.2
 keras==2.2.4
-json==2.0.9
